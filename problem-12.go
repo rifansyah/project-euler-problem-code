@@ -12,7 +12,6 @@ func main() {
 			fmt.Println(triangle)
 			return
 		}
-		// fmt.Println(triangle, divisor)
 	}
 }
 
